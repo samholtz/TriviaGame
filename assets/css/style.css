@@ -1,0 +1,12 @@
+body {
+    background-image: url(../images/pic.jpg); 
+    color: black;
+    
+}
+
+#body {
+    background-color: white;
+    margin: 5%;
+    padding: 5%;
+    opacity: 0.8;
+}
